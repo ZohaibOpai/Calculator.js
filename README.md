@@ -20,11 +20,9 @@ https://heroic-youtiao-5496d1.netlify.app/
 ---
 
 ## 🖥️ Preview
+ Calculator
 
-![Uploading image.png…]()
-
-
-> 📌 Upload your calculator screenshot and name it `screenshot.png`
+> 📌 https://1drv.ms/f/c/8284a6b109cb516d/IgDm1Pz7M484SrNdeQviPMLPAdLWFBH_Y5_1MPiO9Vz2BMU?e=4pPLHb`screenshot.png`
 
 ---
 
