@@ -22,7 +22,7 @@ https://heroic-youtiao-5496d1.netlify.app/
 ## 🖥️ Preview
  Calculator
 
-> 📌 https://1drv.ms/f/c/8284a6b109cb516d/IgDm1Pz7M484SrNdeQviPMLPAdLWFBH_Y5_1MPiO9Vz2BMU?e=4pPLHb`screenshot.png`
+> 📌 https://1drv.ms/i/c/8284a6b109cb516d/IQDSwqavd9SdQKQqWux3MS0qAY_xMmfIGVT4HttZI38BPMw?e=rl5adp screenshot.png`
 
 ---
 
